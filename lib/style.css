@@ -3,4 +3,7 @@ h1 {
 }
 body {
   background-color: green;
+h2 {
+  color: blue;
+  font-style: italic;
 }
